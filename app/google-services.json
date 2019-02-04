@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "125970435786",
+    "firebase_url": "https://uber-b36d7.firebaseio.com",
+    "project_id": "uber-b36d7",
+    "storage_bucket": "uber-b36d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125970435786:android:95d8daa4bb1ae1fd",
+        "android_client_info": {
+          "package_name": "com.example.varianttecnology.androiduberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125970435786-itui8sv9fsvns2ouvqsg6l3silaf6suq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varianttecnology.androiduberclone",
+            "certificate_hash": "12549df02e5e0578ba387ca7255cb6905c30025a"
+          }
+        },
+        {
+          "client_id": "125970435786-fu0jncg7o7g1qhj6rbu6pgf2l9g4sg13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAce6D6Mel5qpHc9Cj7tekpWimfHjUZy5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125970435786-fu0jncg7o7g1qhj6rbu6pgf2l9g4sg13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125970435786:android:8182089363bf2475",
+        "android_client_info": {
+          "package_name": "com.example.varianttecnology.uberclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125970435786-5kq3fhdton9q8gva942fgqgmt2jaut5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varianttecnology.uberclone",
+            "certificate_hash": "12549df02e5e0578ba387ca7255cb6905c30025a"
+          }
+        },
+        {
+          "client_id": "125970435786-fu0jncg7o7g1qhj6rbu6pgf2l9g4sg13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAce6D6Mel5qpHc9Cj7tekpWimfHjUZy5s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125970435786-fu0jncg7o7g1qhj6rbu6pgf2l9g4sg13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
